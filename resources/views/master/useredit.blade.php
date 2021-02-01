@@ -28,7 +28,7 @@
                             <input type="email" class="form-control" name="txtemail" placeholder="E-Mail"value = {{ $data -> email }}>
                         </div>
                         <div class="form-group">
-                            <label>Jabatan</label>
+                            <label>jabatan</label>
                             <input type="text" class="form-control" name="txtnohp" placeholder="No. Handphone"value = {{ $data -> nohp }}>
                         </div>
                     </div>

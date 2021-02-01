@@ -33,7 +33,7 @@ class UserControler extends Controller
         $user->alamat = $request->txtalamat;
          $user->tgllhr = $request->datetgllhr;
         $user->email = $request->txtemail;
-        $user->nohp = $request->txtnohp;
+        $user->jabatan = $request->txtjabatan;
         $user->save();
         $dataanggota = anggota::all();
         return view('master.user', compact('dataanggota'));

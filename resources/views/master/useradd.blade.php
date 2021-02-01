@@ -28,7 +28,7 @@
                             <input type="email" class="form-control" name="txtemail" placeholder="E-Mail">
                         </div>
                         <div class="form-group">
-                            <label>Jabatan</label>
+                            <label>jabatan</label>
                             <input type="text" class="form-control" name="txtnohp" placeholder="No. Handphone">
                         </div>
                     </div>

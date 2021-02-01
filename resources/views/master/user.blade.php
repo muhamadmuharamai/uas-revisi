@@ -54,7 +54,7 @@
                         <th>Nama</th>
                         <th>Alamat</th>
                         <th>E-mail</th>
-                         <th>Jabatan </th>
+                         <th>jabatan </th>
                          <th>Action</th>
                     </tr>
               
